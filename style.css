@@ -1,0 +1,50 @@
+img {
+    text-align: center;
+    border-width: 25px;
+}
+
+h1 {
+    font-size: 32;
+    font-family: fantasy;
+    text-align: center;
+}
+
+h2 {
+    font-size: 24;
+    text-align: center;
+}
+
+h3 {
+    font-size: 24;
+    text-align: left;
+}
+
+h4 {
+    font-size: 24;
+    text-align: left;
+}
+
+h5 {
+    font-size: 32;
+    font-family: fantasy: text-align:center;
+}
+
+h6 {
+    font-size: 24;
+    text-align: left;
+}
+
+h7 {
+    font-size: 24;
+    text-align: left;
+}
+
+h8 {
+    font-size: 24;
+    text-align: left;
+}
+
+h9 {
+    font-size: 22;
+    font-family: fantasy: text-align:center;
+}
